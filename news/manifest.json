@@ -1,0 +1,26 @@
+[
+  {
+    "version": "26.0.5-release",
+    "publishedAt": "2026-03-23",
+    "files": {
+      "ru_ru": "lang/ru_ru/26.0.5-release.md",
+      "en_us": "lang/en_us/26.0.5-release.md"
+    }
+  },
+  {
+    "version": "26.0.2-release",
+    "publishedAt": "2026-03-15",
+    "files": {
+      "ru_ru": "lang/ru_ru/26.0.2-release.md",
+      "en_us": "lang/en_us/26.0.2-release.md"
+    }
+  },
+  {
+    "version": "26.0.0-release",
+    "publishedAt": "2026-03-09",
+    "files": {
+      "ru_ru": "lang/ru_ru/26.0.0-release.md",
+      "en_us": "lang/en_us/26.0.0-release.md"
+    }
+  }
+]
