@@ -1,5 +1,13 @@
 [
   {
+    "version": "26.0.10-release",
+    "publishedAt": "2026-03-29",
+    "files": {
+      "ru_ru": "lang/ru_ru/26.0.10-release.md",
+      "en_us": "lang/en_us/26.0.10-release.md"
+    }
+  },
+  {
     "version": "26.0.5-release",
     "publishedAt": "2026-03-23",
     "files": {
